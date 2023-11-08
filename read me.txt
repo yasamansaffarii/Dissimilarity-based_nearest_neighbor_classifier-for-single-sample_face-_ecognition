@@ -1,0 +1,3 @@
+upload both data sets file in content directory in colab
+create 2 folders:temp1,tem2 in content in colab
+run ipynb file
